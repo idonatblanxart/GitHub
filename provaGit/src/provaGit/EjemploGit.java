@@ -9,5 +9,6 @@ public class EjemploGit {
 		String nombre ="Juan";
 		String nombre2 ="Pedro";
 		String nombre3 ="Maria";
+		String nombre4 ="Pere";
 	}
 }
